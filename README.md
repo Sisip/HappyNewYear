@@ -1,3 +1,3 @@
 # HappyNewYear
 
-# This is just to practice how to make a new repository.
+# This is to wish everyone a Happy New Year.
